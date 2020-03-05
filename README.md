@@ -103,7 +103,7 @@ statistical significance.
   - It is important to assess what you perceive as a relevant (eg
     biologically relevant) difference between your groups.
   - This tool should help to assess the sufficient sample size to avoid
-    type I errors, that is, you will likely find a significant
+    type II errors, that is, you will likely find a significant
     difference if there is one.
   - Potential for type II error remains similar independent of population
     size and is more dependant on sample size.
