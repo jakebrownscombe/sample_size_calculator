@@ -81,7 +81,7 @@ plot
 
 Group means and standard deviations are the same (20,5), hence this is
 the potential for type I error. Probability of type I error remains
-about 5% until approaching sampling \>75% of the entire population,
+about 5% until approaching sampling \>50-75% of the entire population,
 which isn’t typically feasible in most
 studies
 
@@ -105,9 +105,9 @@ statistical significance.
   - This tool should help to assess the sufficient sample size to avoid
     type I errors, that is, you will likely find a significant
     difference if there is one.
-  - Potential for type I error remains similar independent of population
+  - Potential for type II error remains similar independent of population
     size and is more dependant on sample size.
-  - Potential for type II error remains ~5% unless the majority of the
+  - Potential for type I error remains ~5% unless the majority of the
     population is sampled, however, in this case, small differences
     between groups have a high probability of being statistically
     significant
