@@ -11,6 +11,8 @@ type II = non-rejection of a false null hypothesis (false negative - not
 finding significance when there
 is)
 
+![](sample_size_calculator_files/figure-gfm/ob8za0yst6f21.png)<!-- -->
+
 ### This code generates a hypothetical dataset and assesses the probability of finding significant differences between groups with a t-test. You may find it useful for assessing the appropriate sample size to avoid type I and II statistical errors. An R worksheet with this code can be downloaded from this repository
 
 ``` r
